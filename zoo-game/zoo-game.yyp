@@ -3,6 +3,10 @@
   "resourceVersion": "1.6",
   "name": "zoo-game",
   "resources": [
+    {"id":{"name":"spr_tiger","path":"sprites/spr_tiger/spr_tiger.yy",},"order":3,},
+    {"id":{"name":"spr_zebra","path":"sprites/spr_zebra/spr_zebra.yy",},"order":1,},
+    {"id":{"name":"spr_bear","path":"sprites/spr_bear/spr_bear.yy",},"order":2,},
+    {"id":{"name":"Spr_elephant","path":"sprites/Spr_elephant/Spr_elephant.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -11,10 +15,10 @@
     {"name":"iOS","path":"options/ios/options_ios.yy",},
     {"name":"Linux","path":"options/linux/options_linux.yy",},
     {"name":"macOS","path":"options/mac/options_mac.yy",},
-    {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
   ],
   "defaultScriptType": 0,
   "isEcma": false,
@@ -26,11 +30,11 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy","order":3,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":9,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":10,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy","order":3,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
