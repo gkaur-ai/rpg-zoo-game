@@ -37,7 +37,7 @@
     "name": "spr_croc",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 5.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -70,7 +70,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "zoo-game",
-    "path": "zoo-game.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
