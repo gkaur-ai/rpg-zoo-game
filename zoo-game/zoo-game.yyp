@@ -12,6 +12,7 @@
     {"id":{"name":"ts_zoowater","path":"tilesets/ts_zoowater/ts_zoowater.yy",},"order":1,},
     {"id":{"name":"obj_tiger","path":"objects/obj_tiger/obj_tiger.yy",},"order":3,},
     {"id":{"name":"spr_croc","path":"sprites/spr_croc/spr_croc.yy",},"order":5,},
+    {"id":{"name":"spr_zoofence","path":"sprites/spr_zoofence/spr_zoofence.yy",},"order":10,},
     {"id":{"name":"Spr_blocker","path":"sprites/Spr_blocker/Spr_blocker.yy",},"order":7,},
     {"id":{"name":"spr_bear","path":"sprites/spr_bear/spr_bear.yy",},"order":2,},
     {"id":{"name":"ts_zoo","path":"tilesets/ts_zoo/ts_zoo.yy",},"order":0,},
