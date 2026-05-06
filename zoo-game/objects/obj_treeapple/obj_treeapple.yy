@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_gamemanager2",
-  "spriteId": null,
+  "name": "obj_treeapple",
+  "spriteId": {
+    "name": "spr_tree2",
+    "path": "sprites/spr_tree2/spr_tree2.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -21,9 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":64,"eventType":8,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
