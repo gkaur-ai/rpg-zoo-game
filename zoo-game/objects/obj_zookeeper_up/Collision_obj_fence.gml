@@ -3,3 +3,8 @@
 /// @DnDHash : 46521E7A
 /// @DnDArgument : "speed" "0"
 image_speed = 0;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 1DB05D83
+speed = 0;
