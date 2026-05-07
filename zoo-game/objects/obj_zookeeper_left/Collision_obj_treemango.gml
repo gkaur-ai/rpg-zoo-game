@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 6290A3F8
-/// @DnDArgument : "soundid" "bear"
-/// @DnDSaveInfo : "soundid" "bear"
-audio_play_sound(bear, 0, 0, 1.0, undefined, 1.0);
+/// @DnDArgument : "soundid" "bear2"
+/// @DnDSaveInfo : "soundid" "bear2"
+audio_play_sound(bear2, 0, 0, 1.0, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
