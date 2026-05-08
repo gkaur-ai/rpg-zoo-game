@@ -8,10 +8,3 @@ image_speed = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 3C47427C
 speed = 0;
-
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 141C270D
-/// @DnDArgument : "soundid" "tiger2"
-/// @DnDSaveInfo : "soundid" "tiger2"
-audio_play_sound(tiger2, 0, 0, 1.0, undefined, 1.0);

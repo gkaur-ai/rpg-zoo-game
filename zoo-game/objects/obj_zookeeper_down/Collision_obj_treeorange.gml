@@ -8,10 +8,3 @@ image_speed = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 31E6E68E
 speed = 0;
-
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 728816AB
-/// @DnDArgument : "soundid" "croc"
-/// @DnDSaveInfo : "soundid" "croc"
-audio_play_sound(croc, 0, 0, 1.0, undefined, 1.0);

@@ -8,10 +8,3 @@ image_speed = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 123D5824
 speed = 0;
-
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 78F21E48
-/// @DnDArgument : "soundid" "bear2"
-/// @DnDSaveInfo : "soundid" "bear2"
-audio_play_sound(bear2, 0, 0, 1.0, undefined, 1.0);

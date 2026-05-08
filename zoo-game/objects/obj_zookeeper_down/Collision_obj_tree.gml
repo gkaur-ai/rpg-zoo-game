@@ -1,17 +1,8 @@
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 0325BAD0
-/// @DnDArgument : "soundid" "elephant"
-/// @DnDSaveInfo : "soundid" "elephant"
-audio_play_sound(elephant, 0, 0, 1.0, undefined, 1.0);
-
-/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+/// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 42874291
-/// @DnDArgument : "speed" "0"
-image_speed = 0;
-
-/// @DnDAction : YoYo Games.Movement.Set_Speed
-/// @DnDVersion : 1
-/// @DnDHash : 133C7D6E
-speed = 0;
+/// @DnDHash : 5DEE7191
+/// @DnDArgument : "xpos" "35"
+/// @DnDArgument : "ypos" "256"
+/// @DnDArgument : "objectid" "obj_textbox"
+/// @DnDSaveInfo : "objectid" "obj_textbox"
+instance_create_layer(35, 256, "Instances", obj_textbox);
