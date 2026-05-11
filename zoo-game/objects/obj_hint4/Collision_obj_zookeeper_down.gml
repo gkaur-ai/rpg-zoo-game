@@ -10,8 +10,3 @@ with(other) speed = 0;
 /// @DnDArgument : "steps" "15"
 /// @DnDArgument : "alarm" "3"
 alarm_set(3, 15);
-
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 0C52B31E
-instance_destroy();
