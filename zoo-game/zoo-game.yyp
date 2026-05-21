@@ -28,6 +28,7 @@
     {"id":{"name":"obj_elephant","path":"objects/obj_elephant/obj_elephant.yy",},"order":2,},
     {"id":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"order":4,},
     {"id":{"name":"spr_tiger","path":"sprites/spr_tiger/spr_tiger.yy",},"order":3,},
+    {"id":{"name":"sd_win","path":"sounds/sd_win/sd_win.yy",},"order":7,},
     {"id":{"name":"obj_hint1","path":"objects/obj_hint1/obj_hint1.yy",},"order":38,},
     {"id":{"name":"spr_zookeeper_left","path":"sprites/spr_zookeeper_left/spr_zookeeper_left.yy",},"order":11,},
     {"id":{"name":"spr_mango","path":"sprites/spr_mango/spr_mango.yy",},"order":42,},
